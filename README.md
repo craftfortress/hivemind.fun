@@ -1,10 +1,10 @@
 # hivemind.fun
 Most searched for terms on google related to the input you provide
 
-This was originally created in a 24 hour as a challenge to see what I could build.
+![alt text](https://gifyu.com/images/hivemind-fun1.gif)
 
-Realising people were scrutinizing my code on HN I then spend atleast another 24 refactoring the code, making it cross browser compliant and finally connecting it to a jsonBlob store, to allow passive viewing of what other users are searching for. 
+This was a 24hr project to see what I could build in a weekend. 
+I was happy with the result, but I have revisited it to provide a good refactor and to enable other users search results to appear in real time, for a bit of fun.
 
-![alt text](https://i.imgur.com/4c5mFCu.gifv)
 
 Thanks and have fun :3
